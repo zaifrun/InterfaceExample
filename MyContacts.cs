@@ -13,6 +13,7 @@ namespace InterfaceExample
 {
     public class  MyContacts
     {
+        //bemærk bemærk - brug af Interfacet ICollection her!!!
         private ICollection<Contact> contacts;
         public MyContacts(ICollection<Contact> contacts)
         {

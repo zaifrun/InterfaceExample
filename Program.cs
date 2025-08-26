@@ -5,8 +5,8 @@
 
 Console.WriteLine("Hello, World!");
 //MyContacts contacts = new MyContacts(new List<Contact>());
-//MyContacts contacts = new MyContacts(new LinkedList<Contact>());
-MyContacts contacts = new MyContacts(new HashSet<Contact>());
+MyContacts contacts = new MyContacts(new LinkedList<Contact>());
+//MyContacts contacts = new MyContacts(new HashSet<Contact>());
 
 
 
