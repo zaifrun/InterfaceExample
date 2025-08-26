@@ -4,6 +4,7 @@
 //brug af  : https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1?view=net-9.0
 
 Console.WriteLine("Hello, World!");
+
 //MyContacts contacts = new MyContacts(new List<Contact>());
 MyContacts contacts = new MyContacts(new LinkedList<Contact>());
 //MyContacts contacts = new MyContacts(new HashSet<Contact>());
